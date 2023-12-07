@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default
+  m_EditorClassIdentifier: 
+  m_GroupName: Default
+  m_Data:
+    m_SerializedData: []
+  m_GUID: cedb180d79eb8654098b26744c55bdd2
+  m_SerializeEntries:
+  - m_GUID: a1781471a9de4144ab32585353b150e7
+    m_Address: RoomListPanel
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 35e9aa2a81c596c4f85016a72102b96f
+    m_Address: ResultPanel
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 01793a007b3a84a4c98d7635d786fbf5
+    m_Address: ReLoadPanel
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 54243d235bbfc6b4291d1b1ebd8e829c
+    m_Address: ListPanel
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8bf541f9ac61d7d40ad6089a7ebd86fd
+    m_Address: RoomPanel
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8e4e38979eb9c3e43a3bb53187afe4ee
+    m_Address: TipPanel
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: ee968ca9e85f9f14592a1ea6b4bfea12, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 479a94f5de53fcc419056903ee49b86e, type: 2}
+    - {fileID: 11400000, guid: c246f2d6ad247a24099352830a58fb06, type: 2}

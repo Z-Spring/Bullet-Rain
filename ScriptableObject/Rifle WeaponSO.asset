@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 602588657bef424c82cb53789589cf44, type: 3}
+  m_Name: Rifle WeaponSO
+  m_EditorClassIdentifier: 
+  weaponId: 3
+  weaponName: Rifle
+  weaponPrefab: {fileID: 8534753645840840646, guid: ab5f9f14af4ef834a8415b3e17fab596,
+    type: 3}
+  weaponIcon: {fileID: 21300000, guid: 3a5622229ac6b534c8bec4e6f919a339, type: 3}
+  bulletCountMax: 35
+  currentBulletCount: 20
+  remainBulletCount: 20
+  reloadTime: 1.5
+  shootInterval: 0.7

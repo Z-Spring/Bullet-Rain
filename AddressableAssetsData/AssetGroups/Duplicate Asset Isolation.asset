@@ -1,0 +1,230 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Duplicate Asset Isolation
+  m_EditorClassIdentifier: 
+  m_GroupName: Duplicate Asset Isolation
+  m_Data:
+    m_SerializedData: []
+  m_GUID: e0894d13b5024c54284df15674d650c3
+  m_SerializeEntries:
+  - m_GUID: 127279d577f25ac4ea17dae3782e5074
+    m_Address: Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Textures/White1px.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 68e6db2ebdc24f95958faec2be5558d6
+    m_Address: Assets/TextMesh Pro/Shaders/TMP_SDF.shader
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fe393ace9b354375a9cb14cdbbc28be4
+    m_Address: Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: eee487a5c91949b4788f062bae2ee564
+    m_Address: Assets/Font/MSYH.TTC
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 01be610351795c645bf4dbac6b20bb7b
+    m_Address: Assets/Font/MSYHBD.TTC
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e3265ab4bf004d28a9537516768c1c75
+    m_Address: Assets/TextMesh Pro/Fonts/LiberationSans.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3a5622229ac6b534c8bec4e6f919a339
+    m_Address: Assets/OutSide/Sprites/Weapoons/22.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 97ef3ff76b284a746b60025a9d96832d
+    m_Address: Assets/ScriptableObject/_Weapon List SO.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 087519ff4fbaab844a5de84c69d26350
+    m_Address: Assets/ScriptableObject/Scifi WeaponSO.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 584761fab006d6d42b4d0d8c56a51241
+    m_Address: Assets/OutSide/Sci Fi Gun Light/_models/GunHeavy.FBX
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9cadc8c5021163743861056c6e0fb83a
+    m_Address: Assets/OutSide/Sci Fi Gun Light/_materials/GunTwo/GunTwoRad.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 96c535fa8847b2843a9c401fe65830fa
+    m_Address: Assets/OutSide/Sci Fi Gun Light/_textures/GunTwo/Rad/GunTwo_AlbedoTransparency.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b199bdf781c163b469823a86f9204ac9
+    m_Address: Assets/OutSide/Sci Fi Gun Light/_textures/GunTwo/GunTwo_Emission1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ccc8c4c4e95fdcc4c9ae6aae9295360f
+    m_Address: Assets/OutSide/Sci Fi Gun Light/_textures/GunTwo/GunTwo_Normal.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 933532a4fcc9baf4fa0491de14d08ed7
+    m_Address: Packages/com.unity.render-pipelines.universal/Shaders/Lit.shader
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e6e9a19c3678ded42a3bc431ebef7dbd
+    m_Address: Packages/com.unity.render-pipelines.universal/Shaders/Utils/FallbackError.shader
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 36e335017ad71d54fbb10842863188ae
+    m_Address: Packages/com.unity.render-pipelines.core/Runtime/RenderPipelineResources/FallbackShader.shader
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5dc16573886fd1c45b0a50aaeb5642ce
+    m_Address: Assets/OutSide/Sci Fi Gun Light/_textures/GunTwo/Rad/GunTwo_SpecularSmoothness.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f02942e8235eb714a8057f9087e0c9ef
+    m_Address: Assets/OutSide/Sprites/Weapoons/scifi.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c82df70be0cb2c1479f4ff9b3cb2b0c7
+    m_Address: Assets/ScriptableObject/M4 WeaponSO.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 16563f2900eb55747885fa02e04da0bc
+    m_Address: Assets/OutSide/M4 Carbine/M4_Carbine.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 77d6a72c255711c4cb149fa9b8d9c087
+    m_Address: Assets/OutSide/M4 Carbine/Textures/M4_Carbine.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d421884788385124f8715ae86f2745b7
+    m_Address: Assets/OutSide/M4 Carbine/Textures/M4_Albedo.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 316b514633317634caace3853f210ab6
+    m_Address: Assets/OutSide/Sprites/Weapoons/m4.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 58979b8829a589a4ba7a56357930af1a
+    m_Address: Assets/ScriptableObject/Rifle WeaponSO.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6100169b703c4f04eba4cfb0fa4916e3
+    m_Address: Assets/Sci-Fi Weapons/Base Pack/Rifle/Materials/UV_mapper.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 192fe4cc1869b5c49b2da7f4dbd5c463
+    m_Address: Assets/OutSide/sci-fi-weapons/Base Pack/Rifle/Textures/Variation 06/Rifle_06_Albedo.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 757b0d9289c077a43a818a1da2f8db2b
+    m_Address: Assets/OutSide/sci-fi-weapons/Base Pack/Rifle/Textures/Variation 06/Rifle_06_Emission.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1dc2a27ad3a63d24bad7f1c6d159013e
+    m_Address: Assets/Sci-Fi Weapons/Base Pack/Rifle/Rifle.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ea96f397732cbd2468d179942ce3bd0c
+    m_Address: Assets/ScriptableObject/L96 WeaponSO.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e3016284a79e73e4c8e48be449b1f8e1
+    m_Address: Assets/RenderTexture/L96 crosshair mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ea15666d314498a49856348293118931
+    m_Address: Assets/RenderTexture/L96.renderTexture
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4c89b89219998c44dbf3e9001fdba682
+    m_Address: Assets/RenderTexture/L96 Mask Shader.shadergraph
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2d30ee9a6ada4444983a65f922708293
+    m_Address: Assets/OutSide/L96 Sniper Rifle/L96_Sniper_Rifle.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 12c30be21bdfb164d9803e4a23628443
+    m_Address: Assets/OutSide/L96 Sniper Rifle/Textures/L96_Sniper_Rifle.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 662955005d8c98a47b083f6192953b22
+    m_Address: Assets/OutSide/L96 Sniper Rifle/Textures/L96_Metallic.tga
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b11a29744b9c2cb43b95f3fdddfa068a
+    m_Address: Assets/OutSide/Sprites/Weapoons/L96.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ee8a25089c320ee479c06067489432ff
+    m_Address: Assets/Materials/Bullet.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f241298347c160a478f55f7d4ee8f456
+    m_Address: Assets/Materials/Enemy 1.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: aa3fee012a737a84c9795d967d6ada62
+    m_Address: Assets/Font/SIMSUN SDF.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b427a17e4073a2b4f81cacb338ab2974
+    m_Address: Assets/Font/SIMSUN.TTC
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: ee968ca9e85f9f14592a1ea6b4bfea12, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 53a1bb97b260465438e17cd880a769ad, type: 2}
+    - {fileID: 11400000, guid: a36f8e30cac4c764898ed3a0f66108a3, type: 2}

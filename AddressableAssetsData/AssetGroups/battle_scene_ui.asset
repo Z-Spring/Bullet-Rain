@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: battle_scene_ui
+  m_EditorClassIdentifier: 
+  m_GroupName: battle_scene_ui
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 4ddef66f083618947be1016f797077da
+  m_SerializeEntries:
+  - m_GUID: a3ba61a2f5ea6ba41b5476b6f5b33017
+    m_Address: Assets/Resources/BloodBarUI.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - battle_scene_ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4923eed962958ae4f9e61ba2460b3878
+    m_Address: Assets/Resources/OptionsUI.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - battle_scene_ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 47570abcb8290f24d85de6f861101f00
+    m_Address: Assets/Resources/SwitchWeaponPanel.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - battle_scene_ui
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: ee968ca9e85f9f14592a1ea6b4bfea12, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: f71f91fbf79b03b46bfa56a001e5f4f0, type: 2}
+    - {fileID: 11400000, guid: 47b4d92774682674da2a470dd87e7df7, type: 2}

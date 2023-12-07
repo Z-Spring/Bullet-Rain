@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: bulletrain_ab
+  m_EditorClassIdentifier: 
+  m_GroupName: bulletrain_ab
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 96d232977e3d2164f94e23a4ebc15ecb
+  m_SerializeEntries:
+  - m_GUID: fa6bcfab40d10cd4d9f26f19aeaf8977
+    m_Address: Assets/Resources/Enemy.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: ee968ca9e85f9f14592a1ea6b4bfea12, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 7cf2ded771aadeb46b4437ff46867b5c, type: 2}
+    - {fileID: 11400000, guid: 4cec0012994c0b14c836bdbb06da459f, type: 2}

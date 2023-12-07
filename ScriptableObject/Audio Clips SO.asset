@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ae3bffa3e3145f784999aff9d8d2781, type: 3}
+  m_Name: Audio Clips SO
+  m_EditorClassIdentifier: 
+  handgunFire: {fileID: 8300000, guid: 399b93ec7c361784cb74f2a15c6c3ff3, type: 3}
+  handgunReload:
+  - {fileID: 8300000, guid: 816dbfa1067524544b8022f976e18a2e, type: 3}
+  - {fileID: 8300000, guid: 83f57224438ba1e48aecb4e69477dc91, type: 3}
+  rifleFire: {fileID: 0}
+  footstep:
+  - {fileID: 8300000, guid: eb847bc4a105fd24f8ef43750c8c0b17, type: 3}
+  - {fileID: 8300000, guid: 3ecbd75896f43e04ca699490468d6c8b, type: 3}
+  hit: {fileID: 0}
